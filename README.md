@@ -20,13 +20,13 @@ Nenhuma senha ou token deve ser colocado nos arquivos do site.
 
 Edite `assets/js/content.js` para alterar nome provisório da marca, textos, contato, experiências, destinos e informações comerciais. Valores e disponibilidade não confirmados ficam identificados como **A confirmar**. Fotos oficiais ainda serão adicionadas: os espaços de imagem são marcadores, não fotos de banco ou imagens inventadas.
 
+## Imagens
+
+Adicione fotos autorizadas em `assets/images/` e atualize os caminhos no conteúdo. O visual atual usa espaços abstratos claramente identificados como aguardando foto; não são fotografias reais. Para cada rodada, envie até quatro imagens e informe, se possível, o que cada uma mostra e onde gostaria de usá-la.
+
 ## Reservas e formulários
 
 Os pedidos de reserva e interesse de anfitriões são encaminhados ao WhatsApp informado no conteúdo. O site não processa pagamentos nem armazena cadastros. O formulário de anfitriões não publica dados: a mensagem é enviada para análise administrativa.
-
-## Imagens
-
-Adicione fotos autorizadas em `assets/images/` e atualize os caminhos no conteúdo. Para cada rodada, envie até quatro imagens e informe, se possível, o que cada uma mostra e onde gostaria de usá-la.
 
 ## Privacidade e segurança
 
