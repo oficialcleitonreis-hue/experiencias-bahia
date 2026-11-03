@@ -1,0 +1,3 @@
+/* Cloudflare Pages static response headers */
+/* Avoid embedding third-party scripts; Google Fonts are loaded as stylesheets. */
+/* Headers are intentionally conservative and can be tightened after reviewing any future integrations. */

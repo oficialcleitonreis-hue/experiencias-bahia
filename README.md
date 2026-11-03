@@ -1,2 +1,33 @@
-# experiencias-bahia
-Plataforma profissional de experiências turísticas na Ilha de Itaparica, Salvador e Baía de Todos-os-Santos.
+# Experiências Bahia
+
+Plataforma independente de experiências turísticas na Ilha de Itaparica, Salvador e Baía de Todos-os-Santos. Site estático preparado para publicação no Cloudflare Pages.
+
+## Desenvolvimento local
+
+Abra `index.html` no navegador ou sirva a pasta com um servidor estático. Não há dependências de build.
+
+## Publicação no Cloudflare Pages
+
+1. No Cloudflare, crie um projeto Pages conectado a este repositório.
+2. Selecione a branch `main`.
+3. Framework preset: **None**.
+4. Build command: deixe vazio.
+5. Build output directory: `/`.
+
+Nenhuma senha ou token deve ser colocado nos arquivos do site.
+
+## Edição de conteúdo
+
+Edite `assets/js/content.js` para alterar nome provisório da marca, textos, contato, experiências, destinos e informações comerciais. Valores e disponibilidade não confirmados ficam identificados como **A confirmar**. Fotos oficiais ainda serão adicionadas: os espaços de imagem são marcadores, não fotos de banco ou imagens inventadas.
+
+## Reservas e formulários
+
+Os pedidos de reserva e interesse de anfitriões são encaminhados ao WhatsApp informado no conteúdo. O site não processa pagamentos nem armazena cadastros. O formulário de anfitriões não publica dados: a mensagem é enviada para análise administrativa.
+
+## Imagens
+
+Adicione fotos autorizadas em `assets/images/` e atualize os caminhos no conteúdo. Para cada rodada, envie até quatro imagens e informe, se possível, o que cada uma mostra e onde gostaria de usá-la.
+
+## Privacidade e segurança
+
+Antes da operação comercial, revise os termos e a política de privacidade, confirme informações de cada atividade e valide licenças, autorizações, capacidade e condições de segurança aplicáveis.
