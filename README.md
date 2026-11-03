@@ -18,11 +18,11 @@ Nenhuma senha ou token deve ser colocado nos arquivos do site.
 
 ## Edição de conteúdo
 
-Edite `assets/js/content.js` para alterar nome provisório da marca, textos, contato, experiências, destinos e informações comerciais. Valores e disponibilidade não confirmados ficam identificados como **A confirmar**. Fotos oficiais ainda serão adicionadas: os espaços de imagem são marcadores, não fotos de banco ou imagens inventadas.
+Edite `assets/js/content.js` para alterar nome provisório da marca, textos, contato, experiências, destinos e informações comerciais. Valores e disponibilidade não confirmados ficam identificados como **A confirmar**.
 
-## Imagens
+## Fotografias
 
-Adicione fotos autorizadas em `assets/images/` e atualize os caminhos no conteúdo. O visual atual usa espaços abstratos claramente identificados como aguardando foto; não são fotografias reais. Para cada rodada, envie até quatro imagens e informe, se possível, o que cada uma mostra e onde gostaria de usá-la.
+O mapa editorial das oito imagens está em `assets/images/photo-map.json`. Esta sessão não disponibiliza os binários das imagens para gravação no GitHub, então os espaços fotográficos do site ainda exibem marcadores em vez de fotos. Não foram utilizadas imagens genéricas nem arquivos fictícios. Consulte `assets/images/README.md` para a lista de nomes e posições planejados.
 
 ## Reservas e formulários
 

@@ -1,0 +1,15 @@
+{
+  "status": "editorial-map-only",
+  "note": "As oito fotos foram recebidas e identificadas na conversa, mas os arquivos de imagem binários não estão disponíveis para a integração GitHub nesta sessão. Não criar imagens substitutas nem fingir que os arquivos estão no site.",
+  "destination": "assets/images/",
+  "photos": [
+    { "conversation_number": 1, "suggested_filename": "01-gastronomia-prato-frutos-do-mar.jpg", "intended_slot": "experiência gastronômica / imagem de prato à beira-mar", "embedded_text": true },
+    { "conversation_number": 2, "suggested_filename": "02-mergulho-polvo.jpg", "intended_slot": "mergulho e exploração marinha / anfitrião no mar", "embedded_text": true },
+    { "conversation_number": 3, "suggested_filename": "03-pesca-lagostas.jpg", "intended_slot": "pesca artesanal / anfitrião na costa", "embedded_text": false },
+    { "conversation_number": 4, "suggested_filename": "04-vivencia-no-mar.jpg", "intended_slot": "vivência no mar / pessoa na água", "embedded_text": true, "caution": "Não apresentar captura como atividade confirmada ou autorizada sem validar regras locais." },
+    { "conversation_number": 5, "suggested_filename": "05-gastronomia-polvo.jpg", "intended_slot": "gastronomia regional / preparo de polvo à beira-mar", "embedded_text": false },
+    { "conversation_number": 6, "suggested_filename": "06-pesca-peixe.jpg", "intended_slot": "pesca artesanal / anfitrião com peixe", "embedded_text": false },
+    { "conversation_number": 7, "suggested_filename": "07-mar-pesca-frutos-do-mar.jpg", "intended_slot": "experiência em destaque: mar, pesca e gastronomia", "embedded_text": false },
+    { "conversation_number": 8, "suggested_filename": "08-preparo-culinario-beira-mar.jpg", "intended_slot": "gastronomia regional / preparo de ingredientes", "embedded_text": false }
+  ]
+}
